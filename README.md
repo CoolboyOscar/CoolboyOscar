@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋🏼👋🏼
 
 <!--
 **CoolboyOscar/CoolboyOscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Oscar, I'm a student of the Sven Eriksson high school in Borås 
+
+- I have a passion for computers, how they work, how they're built, and how the software behind them is designed
+
+- I’m currently learning coding and the mechanics around modern software, web design, and AI
+
+- Currently I am working on smaller projects related to web design and programming, while messing around with hardware in realspace
+
+- Interests: I have an interest in gaming
